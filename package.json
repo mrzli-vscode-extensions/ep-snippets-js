@@ -1,0 +1,25 @@
+{
+  "name": "ep-snippets-js",
+  "displayName": "EP Snippets JS",
+  "description": "JS Snippets Extension Pack",
+  "version": "0.0.1",
+  "publisher": "goran-mrzljak",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrzli-vscode-extensions/ep-snippets-js"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "goran-mrzljak.snippets-typescript",
+    "goran-mrzljak.snippets-react",
+    "goran-mrzljak.snippets-redux-observable",
+    "goran-mrzljak.snippets-nestjs",
+    "goran-mrzljak.snippets-jest",
+    "goran-mrzljak.snippets-special"
+  ]
+}
